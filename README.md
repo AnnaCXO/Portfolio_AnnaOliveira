@@ -6,7 +6,7 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 
 Do you want to learn more about me or get in touch :question: Check out my LinkedIn profile :arrow_down:
 
-:exclamation: https://www.linkedin.com/in/anna-oliveira-665312102/ :exclamation:
+:exclamation: [LinkedIn](https://www.linkedin.com/in/anna-oliveira-665312102/) :exclamation:
 
 ## **Tools**
 :large_blue_diamond: Jira - bug tracker
@@ -25,21 +25,13 @@ Do you want to learn more about me or get in touch :question: Check out my Linke
 :large_blue_diamond: 6-weeks Dare IT challenge for manual testers- January-February 2023
 
 ## **Test cases examples**
-:large_blue_diamond: Platforma Scoutingowa
-
-https://docs.google.com/spreadsheets/d/1c8rf0i5nKH54h1kjnUt9ije0AIYEWUfWXuAGjU4WrK0/edit?usp=share_link
+:large_blue_diamond: [Platforma Scoutingowa](https://docs.google.com/spreadsheets/d/1c8rf0i5nKH54h1kjnUt9ije0AIYEWUfWXuAGjU4WrK0/edit?usp=share_link)
 
 ## **My bugs reporting**
-:large_blue_diamond: Platforma Scoutingowa
+:large_blue_diamond: [Platforma Scoutingowa](https://docs.google.com/spreadsheets/d/1v2JlFgRZ2DXRsIvM8OhzJD9L08Zkp_L5tyLj00l7_GI/edit?usp=share_link)
 
-https://docs.google.com/spreadsheets/d/1v2JlFgRZ2DXRsIvM8OhzJD9L08Zkp_L5tyLj00l7_GI/edit?usp=share_link
-
-:large_blue_diamond: OLX app
-
-https://docs.google.com/spreadsheets/d/1rEfvQtyQG8CO99SwYetzjPegZIBCsdyLLrtfu9OT8fc/edit?usp=share_link
+:large_blue_diamond: [OLX app](https://docs.google.com/spreadsheets/d/1rEfvQtyQG8CO99SwYetzjPegZIBCsdyLLrtfu9OT8fc/edit?usp=share_link)
 
 ## **My test case raports**
-:large_blue_diamond: Platforma Scoutingowa
-
-https://docs.google.com/document/d/1_mSgTB-UuMUhViiBT-GMvgbn2fkMf6leX1a0Qy9d9Uo/edit?usp=share_link
+:large_blue_diamond: [Platforma Scoutingowa](https://docs.google.com/document/d/1_mSgTB-UuMUhViiBT-GMvgbn2fkMf6leX1a0Qy9d9Uo/edit?usp=share_link)
 
