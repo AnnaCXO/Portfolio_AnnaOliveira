@@ -21,8 +21,12 @@ Do you want to learn more about me or get in touch :question: Check out my Linke
 
 :large_blue_diamond: HTML - basic knowledge
 
+:large_blue_diamond: SQL
+
 ## **Courses**
 :large_blue_diamond: 6-weeks Dare IT challenge for manual testers- January-February 2023
+
+:large_blue_diamond: uTest Academy- March 2023
 
 ## **Test cases examples**
 :large_blue_diamond: [Platforma Scoutingowa](https://docs.google.com/spreadsheets/d/1c8rf0i5nKH54h1kjnUt9ije0AIYEWUfWXuAGjU4WrK0/edit?usp=share_link)
@@ -32,6 +36,6 @@ Do you want to learn more about me or get in touch :question: Check out my Linke
 
 :large_blue_diamond: [OLX app](https://docs.google.com/spreadsheets/d/1rEfvQtyQG8CO99SwYetzjPegZIBCsdyLLrtfu9OT8fc/edit?usp=share_link)
 
-## **My test case raports**
+## **My test case reports**
 :large_blue_diamond: [Platforma Scoutingowa](https://docs.google.com/document/d/1_mSgTB-UuMUhViiBT-GMvgbn2fkMf6leX1a0Qy9d9Uo/edit?usp=share_link)
 
