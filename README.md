@@ -36,6 +36,12 @@ Do you want to learn more about me or get in touch :question: Check out my Linke
 
 :large_blue_diamond: [OLX app](https://docs.google.com/spreadsheets/d/1rEfvQtyQG8CO99SwYetzjPegZIBCsdyLLrtfu9OT8fc/edit?usp=share_link)
 
+:large_blue_diamond: [Skoda](https://docs.google.com/spreadsheets/d/1JyqF1ovoxEr29lGU6RpP6fZdq7JVaHn2bf-PzRowv-8/edit?usp=share_link)
+
+:large_blue_diamond: [C&A](https://docs.google.com/spreadsheets/d/1qiNspGoh4hXDIAxd5h9Uh_BhKbAtG44YA9z0-_hoSXM/edit?usp=share_link)
+
+:large_blue_diamond: [Boozt app](https://docs.google.com/spreadsheets/d/1DQs5JuTLYSucQg7BeTnQoPaoeUrxizvbyzLl6yQRhwY/edit?usp=share_link)
+
 ## **My test case reports**
 :large_blue_diamond: [Platforma Scoutingowa](https://docs.google.com/document/d/1_mSgTB-UuMUhViiBT-GMvgbn2fkMf6leX1a0Qy9d9Uo/edit?usp=share_link)
 
