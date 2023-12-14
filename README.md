@@ -1,8 +1,8 @@
 # **Portfolio**
 ## **About me**
-My name is Anna Oliveira. I have over 4 years of experience of working as a KYC Analyst in the corporate banking. Currently, I work as a QA Specialist for more than 6 months. Recently, I got interested in the career of the Software Tester. Thanks to my experience in KYC, analytical skills and Master degree in Economy I think I have a solid background to start my journey with testing. I am used to working in the international environment, under pressure of time and with constantly changing rules and procedures.
+My name is Anna Oliveira. I have over 5 years of experience of working as a KYC Analyst in the corporate banking. Currently, I work as a QA Specialist for 1.5 years. Recently, I got interested in the career of the Software Tester. Thanks to my experience in KYC, analytical skills and Master degree in Economy I think I have a solid background to start my journey with testing. I am used to working in the international environment, under pressure of time and with constantly changing rules and procedures.
 
-In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course with Dare IT. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
+In this portfolio I would like to share my testing knowledge and exhibit my technical skills. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
 
 Do you want to learn more about me or get in touch :question: Check out my LinkedIn profile :arrow_down:
 
@@ -19,7 +19,7 @@ Do you want to learn more about me or get in touch :question: Check out my Linke
 
 :large_blue_diamond: GitHub
 
-:large_blue_diamond: HTML - basic knowledge
+:large_blue_diamond: HTML, CSS - basic knowledge
 
 :large_blue_diamond: SQL
 
